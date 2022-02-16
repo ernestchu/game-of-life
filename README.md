@@ -7,7 +7,7 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
 python3 Conway.py
 ```
 
-- Press **blank space** to start/pause the population.
+- Press `blank space` to start/pause the population.
 - Press and drag the cursor to draw arbitrary patterns.
 - Click on the presets below to draw some famous patterns.
 
